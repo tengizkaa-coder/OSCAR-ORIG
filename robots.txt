@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /test/
 
-Sitemap: https://tengizkaa-coder.github.io/OSCAR-ORIG/sitemap.xml
+Sitemap: https://alkomoscow.site/sitemap.xml
