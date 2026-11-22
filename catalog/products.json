@@ -2,109 +2,109 @@
   {
     "category": "wine",
     "label": "Вино",
-    "name": "cabernet",
+    "name": "Cabernet Sauvignon",
     "image": "wine-001.webp"
   },
   {
     "category": "wine",
     "label": "Вино",
-    "name": "chianti",
+    "name": "Chianti",
     "image": "wine-002.webp"
   },
   {
     "category": "wine",
     "label": "Вино",
-    "name": "malbec",
+    "name": "Malbec",
     "image": "wine-003.webp"
   },
   {
     "category": "wine",
     "label": "Вино",
-    "name": "mosel",
+    "name": "Mosel",
     "image": "wine-004.webp"
   },
   {
     "category": "wine",
     "label": "Вино",
-    "name": "pinot",
+    "name": "Pinot",
     "image": "wine-005.webp"
   },
   {
     "category": "wine",
     "label": "Вино",
-    "name": "Sauvignon",
+    "name": "Sauvignon Blanc",
     "image": "wine-006.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "chivas",
+    "name": "Chivas Regal",
     "image": "whisky-007.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "jack daniels",
+    "name": "Jack Daniel's",
     "image": "whisky-008.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "jameson",
+    "name": "Jameson",
     "image": "whisky-009.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "jim",
+    "name": "Jim Beam",
     "image": "whisky-010.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "johnnie",
+    "name": "Johnnie Walker",
     "image": "whisky-011.webp"
   },
   {
     "category": "whisky",
     "label": "Виски",
-    "name": "red johhnie",
+    "name": "Johnnie Walker Red Label",
     "image": "whisky-012.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "absolute",
+    "name": "Absolut",
     "image": "vodka-013.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "beluga",
+    "name": "Beluga",
     "image": "vodka-014.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "finlandia",
+    "name": "Finlandia",
     "image": "vodka-015.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "grey goose",
+    "name": "Grey Goose",
     "image": "vodka-016.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "столичная",
+    "name": "Столичная",
     "image": "vodka-017.webp"
   },
   {
     "category": "vodka",
     "label": "Водка",
-    "name": "хортица",
+    "name": "Хортица",
     "image": "vodka-018.webp"
   },
   {
@@ -116,13 +116,13 @@
   {
     "category": "gin",
     "label": "Джин и мартини",
-    "name": "Bombay",
+    "name": "Bombay Sapphire",
     "image": "gin-020.webp"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
-    "name": "hendricks",
+    "name": "Hendrick's",
     "image": "gin-021.webp"
   },
   {
@@ -134,7 +134,7 @@
   {
     "category": "gin",
     "label": "Джин и мартини",
-    "name": "martini rosso",
+    "name": "Martini Rosso",
     "image": "gin-023.webp"
   },
   {
@@ -146,13 +146,13 @@
   {
     "category": "sparkling",
     "label": "Игристое",
-    "name": "asti",
+    "name": "Asti",
     "image": "sparkling-025.webp"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
-    "name": "moet",
+    "name": "Moët & Chandon",
     "image": "sparkling-026.webp"
   },
   {
@@ -164,25 +164,25 @@
   {
     "category": "sparkling",
     "label": "Игристое",
-    "name": "Veuve",
+    "name": "Veuve Clicquot",
     "image": "sparkling-028.webp"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
-    "name": "советское",
+    "name": "Советское шампанское",
     "image": "sparkling-029.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "coconara",
+    "name": "Coconara",
     "image": "extras-030.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "cola",
+    "name": "Coca-Cola",
     "image": "extras-031.webp"
   },
   {
@@ -194,61 +194,61 @@
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "malboro",
+    "name": "Marlboro",
     "image": "extras-033.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "parlament",
+    "name": "Parliament",
     "image": "extras-034.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "redbull",
+    "name": "Red Bull",
     "image": "extras-035.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "rich",
+    "name": "Rich",
     "image": "extras-036.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "бокалы виски",
+    "name": "Бокалы для виски",
     "image": "extras-037.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "бокалы",
+    "name": "Бокалы",
     "image": "extras-038.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "зажигалка",
+    "name": "Зажигалка",
     "image": "extras-039.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "лед",
+    "name": "Лёд",
     "image": "extras-040.webp"
   },
   {
     "category": "extras",
     "label": "К заказу",
-    "name": "швепес",
+    "name": "Schweppes",
     "image": "extras-041.webp"
   },
   {
     "category": "beer",
     "label": "Пиво",
-    "name": "corona",
+    "name": "Corona",
     "image": "beer-042.webp"
   },
   {
@@ -266,139 +266,139 @@
   {
     "category": "beer",
     "label": "Пиво",
-    "name": "Stella",
+    "name": "Stella Artois",
     "image": "beer-045.webp"
   },
   {
     "category": "beer",
     "label": "Пиво",
-    "name": "балтика",
+    "name": "Балтика",
     "image": "beer-046.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "captain morgan",
+    "name": "Captain Morgan",
     "image": "rum-047.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "carta blanca",
+    "name": "Carta Blanca",
     "image": "rum-048.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "havana club",
+    "name": "Havana Club",
     "image": "rum-049.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "jose cuervo",
+    "name": "José Cuervo",
     "image": "rum-050.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "olmeca",
+    "name": "Olmeca",
     "image": "rum-051.webp"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
-    "name": "sierra",
+    "name": "Sierra",
     "image": "rum-052.webp"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
-    "name": "hennesy",
+    "name": "Hennessy",
     "image": "cognac-053.webp"
   },
   {
     "category": "snacks",
     "label": "Закуски",
-    "name": "lindor",
+    "name": "Lindt Lindor",
     "image": "snacks-054.webp"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
-    "name": "ourvoisier",
+    "name": "Courvoisier",
     "image": "cognac-055.webp"
   },
   {
     "category": "snacks",
     "label": "Закуски",
-    "name": "pringles",
+    "name": "Pringles",
     "image": "snacks-056.webp"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
-    "name": "vsop",
+    "name": "VSOP",
     "image": "cognac-057.webp"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
-    "name": "АРАРАТТТТ",
+    "name": "Ararat",
     "image": "cognac-058.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "вино",
+    "name": "Вино",
     "image": "other-059.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "винцо",
+    "name": "Винцо",
     "image": "other-060.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "дружбаны",
+    "name": "Дружбаны",
     "image": "other-061.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "друны",
+    "name": "Друны",
     "image": "other-062.webp"
   },
   {
     "category": "snacks",
     "label": "Закуски",
-    "name": "люди пешки а мир орешки",
+    "name": "Люди пешки, а мир — орешки",
     "image": "snacks-063.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "романтик",
+    "name": "Романтик",
     "image": "other-064.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "скажем нет ДЕТЯМ",
+    "name": "Скажем нет детям",
     "image": "other-065.webp"
   },
   {
     "category": "snacks",
     "label": "Закуски",
-    "name": "скорлупа_фисташек_мне_в_девстве_поранила_щеку",
+    "name": "Скорлупа фисташек мне в девстве поранила щёку",
     "image": "snacks-066.webp"
   },
   {
     "category": "other",
     "label": "Другие товары",
-    "name": "Снова нет ДЕТЯМ",
+    "name": "Снова нет детям",
     "image": "other-067.webp"
   }
 ]
