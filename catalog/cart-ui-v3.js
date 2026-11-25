@@ -1,7 +1,7 @@
 const search = document.querySelector('#search');
 const cards = [...document.querySelectorAll('.card')];
 const sections = [...document.querySelectorAll('.category')];
-search.addEventListener('input', () => {
+if (search) search.addEventListener('input', () => {
   const term = search.value.trim().toLocaleLowerCase('ru');
   let visible = 0;
   for (const card of cards) {
@@ -10,7 +10,7 @@ search.addEventListener('input', () => {
     if (matches) visible++;
   }
   for (const section of sections) section.hidden = !section.querySelector('.card:not([hidden])');
-  document.querySelector('#empty').hidden = visible !== 0;
+  const emptyEl = document.querySelector('#empty'); if (emptyEl) emptyEl.hidden = visible !== 0;
 });
 
 const storageKey = 'oscar-design-cart-v1';

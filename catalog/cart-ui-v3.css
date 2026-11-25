@@ -12,3 +12,13 @@ dialog#cart-dialog{position:fixed;inset:0;margin:auto;max-height:min(82dvh,720px
 .seo-text h3{font-size:18px;color:#e9e1d5;margin:24px 0 8px;font-family:Georgia,serif;font-weight:400}
 .seo-text p{margin:0 0 12px}
 .seo-text a{color:#c6a24e}
+
+/* Landing pages */
+.landing-intro{color:#c7b9a5;font-size:15px;line-height:1.7;max-width:900px;margin:0 0 30px}
+.faq-item{border:1px solid #423526;background:#1a1212;margin:0 0 10px;padding:14px 16px}
+.faq-item summary{cursor:pointer;font-size:15px;color:#e9e1d5;list-style:none}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item p{color:#a99e8d;font-size:14px;line-height:1.6;margin:10px 0 0}
+.seo-links{display:flex;flex-wrap:wrap;gap:9px;margin:30px 0 0}
+.seo-links a{border:1px solid #59462e;color:#c5b18b;text-decoration:none;font-size:11px;letter-spacing:.1em;text-transform:uppercase;padding:10px 14px}
+.seo-links a:hover{border-color:#c6a24e;color:#fff}
