@@ -3,402 +3,469 @@
     "category": "wine",
     "label": "Вино",
     "name": "Cabernet Sauvignon",
-    "image": "wine-001.webp"
+    "image": "wine-001.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "wine",
     "label": "Вино",
     "name": "Chianti",
-    "image": "wine-002.webp"
+    "image": "wine-002.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "wine",
     "label": "Вино",
     "name": "Malbec",
-    "image": "wine-003.webp"
+    "image": "wine-003.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "wine",
     "label": "Вино",
     "name": "Mosel",
-    "image": "wine-004.webp"
+    "image": "wine-004.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "wine",
     "label": "Вино",
     "name": "Pinot",
-    "image": "wine-005.webp"
+    "image": "wine-005.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "wine",
     "label": "Вино",
     "name": "Sauvignon Blanc",
-    "image": "wine-006.webp"
+    "image": "wine-006.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Chivas Regal",
-    "image": "whisky-007.webp"
+    "image": "whisky-007.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Jack Daniel's",
-    "image": "whisky-008.webp"
+    "image": "whisky-008.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Jameson",
-    "image": "whisky-009.webp"
+    "image": "whisky-009.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Jim Beam",
-    "image": "whisky-010.webp"
+    "image": "whisky-010.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Johnnie Walker",
-    "image": "whisky-011.webp"
+    "image": "whisky-011.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "whisky",
     "label": "Виски",
     "name": "Johnnie Walker Red Label",
-    "image": "whisky-012.webp"
+    "image": "whisky-012.webp",
+    "volume": "1 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Absolut",
-    "image": "vodka-013.webp"
+    "image": "vodka-013.webp",
+    "volume": "1 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Beluga",
-    "image": "vodka-014.webp"
+    "image": "vodka-014.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Finlandia",
-    "image": "vodka-015.webp"
+    "image": "vodka-015.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Grey Goose",
-    "image": "vodka-016.webp"
+    "image": "vodka-016.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Столичная",
-    "image": "vodka-017.webp"
+    "image": "vodka-017.webp",
+    "volume": "0,5 л"
   },
   {
     "category": "vodka",
     "label": "Водка",
     "name": "Хортица",
-    "image": "vodka-018.webp"
+    "image": "vodka-018.webp",
+    "volume": "0,5 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Beefeater",
-    "image": "gin-019.webp"
+    "image": "gin-019.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Bombay Sapphire",
-    "image": "gin-020.webp"
+    "image": "gin-020.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Hendrick's",
-    "image": "gin-021.webp"
+    "image": "gin-021.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Martini Extra Dry",
-    "image": "gin-022.webp"
+    "image": "gin-022.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Martini Rosso",
-    "image": "gin-023.webp"
+    "image": "gin-023.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "gin",
     "label": "Джин и мартини",
     "name": "Martini",
-    "image": "gin-024.webp"
+    "image": "gin-024.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
     "name": "Asti",
-    "image": "sparkling-025.webp"
+    "image": "sparkling-025.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
     "name": "Moët & Chandon",
-    "image": "sparkling-026.webp"
+    "image": "sparkling-026.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
     "name": "Prosecco",
-    "image": "sparkling-027.webp"
+    "image": "sparkling-027.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
     "name": "Veuve Clicquot",
-    "image": "sparkling-028.webp"
+    "image": "sparkling-028.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "sparkling",
     "label": "Игристое",
     "name": "Советское шампанское",
-    "image": "sparkling-029.webp"
+    "image": "sparkling-029.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Coconara",
-    "image": "extras-030.webp"
+    "image": "extras-030.webp",
+    "volume": "упаковка"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Coca-Cola",
-    "image": "extras-031.webp"
+    "image": "extras-031.webp",
+    "volume": "1,5 л"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "IQOS",
-    "image": "extras-032.webp"
+    "image": "extras-032.webp",
+    "volume": "упаковка"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Marlboro",
-    "image": "extras-033.webp"
+    "image": "extras-033.webp",
+    "volume": "упаковка"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Parliament",
-    "image": "extras-034.webp"
+    "image": "extras-034.webp",
+    "volume": "упаковка"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Red Bull",
-    "image": "extras-035.webp"
+    "image": "extras-035.webp",
+    "volume": "0,25 л"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Rich",
-    "image": "extras-036.webp"
+    "image": "extras-036.webp",
+    "volume": "1 л"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Бокалы для виски",
-    "image": "extras-037.webp"
+    "image": "extras-037.webp",
+    "volume": "набор"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Бокалы",
-    "image": "extras-038.webp"
+    "image": "extras-038.webp",
+    "volume": "набор"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Зажигалка",
-    "image": "extras-039.webp"
+    "image": "extras-039.webp",
+    "volume": "1 шт"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Лёд",
-    "image": "extras-040.webp"
+    "image": "extras-040.webp",
+    "volume": "упаковка"
   },
   {
     "category": "extras",
     "label": "К заказу",
     "name": "Schweppes",
-    "image": "extras-041.webp"
+    "image": "extras-041.webp",
+    "volume": "1 л"
   },
   {
     "category": "beer",
     "label": "Пиво",
     "name": "Corona",
-    "image": "beer-042.webp"
+    "image": "beer-042.webp",
+    "volume": "0,355 л"
   },
   {
     "category": "beer",
     "label": "Пиво",
     "name": "Guinness",
-    "image": "beer-043.webp"
+    "image": "beer-043.webp",
+    "volume": "0,44 л"
   },
   {
     "category": "beer",
     "label": "Пиво",
     "name": "Hoegaarden",
-    "image": "beer-044.webp"
+    "image": "beer-044.webp",
+    "volume": "0,33 л"
   },
   {
     "category": "beer",
     "label": "Пиво",
     "name": "Stella Artois",
-    "image": "beer-045.webp"
+    "image": "beer-045.webp",
+    "volume": "0,33 л"
   },
   {
     "category": "beer",
     "label": "Пиво",
     "name": "Балтика",
-    "image": "beer-046.webp"
+    "image": "beer-046.webp",
+    "volume": "0,5 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "Captain Morgan",
-    "image": "rum-047.webp"
+    "image": "rum-047.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "Carta Blanca",
-    "image": "rum-048.webp"
+    "image": "rum-048.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "Havana Club",
-    "image": "rum-049.webp"
+    "image": "rum-049.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "José Cuervo",
-    "image": "rum-050.webp"
+    "image": "rum-050.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "Olmeca",
-    "image": "rum-051.webp"
+    "image": "rum-051.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "rum",
     "label": "Ром и текила",
     "name": "Sierra",
-    "image": "rum-052.webp"
+    "image": "rum-052.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
     "name": "Hennessy",
-    "image": "cognac-053.webp"
+    "image": "cognac-053.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "snacks",
     "label": "Закуски",
     "name": "Lindt Lindor",
-    "image": "snacks-054.webp"
+    "image": "snacks-054.webp",
+    "volume": "упаковка"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
     "name": "Courvoisier",
-    "image": "cognac-055.webp"
+    "image": "cognac-055.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "snacks",
     "label": "Закуски",
     "name": "Pringles",
-    "image": "snacks-056.webp"
+    "image": "snacks-056.webp",
+    "volume": "упаковка"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
     "name": "VSOP",
-    "image": "cognac-057.webp"
+    "image": "cognac-057.webp",
+    "volume": "0,7 л"
   },
   {
     "category": "cognac",
     "label": "Коньяк",
     "name": "Ararat",
-    "image": "cognac-058.webp"
+    "image": "cognac-058.webp",
+    "volume": "0,5 л"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Вино",
-    "image": "other-059.webp"
+    "image": "other-059.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Винцо",
-    "image": "other-060.webp"
+    "image": "other-060.webp",
+    "volume": "0,75 л"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Дружбаны",
-    "image": "other-061.webp"
+    "image": "other-061.webp",
+    "volume": "упаковка"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Друны",
-    "image": "other-062.webp"
+    "image": "other-062.webp",
+    "volume": "упаковка"
   },
   {
     "category": "snacks",
     "label": "Закуски",
     "name": "Люди пешки, а мир — орешки",
-    "image": "snacks-063.webp"
+    "image": "snacks-063.webp",
+    "volume": "упаковка"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Романтик",
-    "image": "other-064.webp"
+    "image": "other-064.webp",
+    "volume": "упаковка"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Скажем нет детям",
-    "image": "other-065.webp"
+    "image": "other-065.webp",
+    "volume": "упаковка"
   },
   {
     "category": "snacks",
     "label": "Закуски",
     "name": "Скорлупа фисташек мне в девстве поранила щёку",
-    "image": "snacks-066.webp"
+    "image": "snacks-066.webp",
+    "volume": "упаковка"
   },
   {
     "category": "other",
     "label": "Другие товары",
     "name": "Снова нет детям",
-    "image": "other-067.webp"
+    "image": "other-067.webp",
+    "volume": "упаковка"
   }
 ]
